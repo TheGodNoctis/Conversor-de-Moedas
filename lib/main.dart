@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http; // Para comunicação com a API
 import 'dart:convert';
 
 // URL da API para obter dados de câmbio
-const request = "https://api.hgbrasil.com/finance?format=json-cors&key=eb722219";
+const request = "https://api.hgbrasil.com/finance?format=json-cors&key=eb222222";
 
 void main() {
   runApp(MaterialApp(
